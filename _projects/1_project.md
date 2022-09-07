@@ -48,7 +48,7 @@ For the robot to ascend and descend to various ocean depths, we created a bouyan
 Electrically, there needed to be a way to interface with the various sensor, communication modules, the bouyancy engine controls, and distribute power. Therfore, my largest task for the project was creating a PCB that would be able to combine this functionality. The PCB incorporated various communication protocols to interface with the sensors and modules (UART, SPI, RS-232). For communcation underwater, the PCB interfaces with an off the shelf acoustic modem. For on the surface communication, RF 915 MHz with LoRa is used along with a GPS module for location information. To control the bouyancy engine, the PCB communicates through UART to an Odrive based brushless motor control as well as receiving analog sensor data from a liquid level sensor and a CTD sensor through UART. To distribute power, the PCB has various switching regulators to step down power. 
 
 
-<div class="row">
+<div class="row mt-3">
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/microfloat_pcb_top.jpg" title="top of microfloat pcb" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
@@ -59,6 +59,7 @@ Electrically, there needed to be a way to interface with the various sensor, com
 <div class="caption">
     From left to right: (1) Top of the MicroFloat PCB (2) Bottom of the MicroFloat PCB
 </div>
+
 
 This entire system was put together and tested in the Acoustic Water Tank in the Love Building, where we were able to see the float repeatledly ascend and descend to 15 ft without leaks or electrical failures (goals previous teams failed to achieve). Overall this was a very satifisying project to complete. It combined many things I'm passionate about - embedded systems, robotics, understanding climate change - but also many things I was unfamiliar with - underwater design parameters and creating incredibly low power systems. 
 
