@@ -17,30 +17,30 @@
       institution: Georgia Institute of Technology
       year: 2018 - 2021
   
-- title: Skills
-  type: map
-  contents:
-    - name: Name
-      value: Value
-    - name: Name
-      value:  Value
+# - title: Skills
+#   type: map
+#   contents:
+#     - name: Name
+#       value: Value
+#     - name: Name
+#       value:  Value
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Graduate Research Assistant
-      institution: School of Interactive Computing, Georgia Institute of Technology
-      year: present
-      description:
-        - Working in the Contextual Computing under the advisement of Thad Starner
-        - title: Designing hardware for Passive Haptic Learning (PHL) project
-          contents:
-            - Assemblying and debugging current iteration of PHL gloves
-            - Designing next iteration of system including a new custom PCB
-        - title: Programming 
-    - title: Software Development Intern
-      institution: Amazon Robotics
-      year: Summer 2022
-      description: 
-        - Description
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Graduate Research Assistant
+#       institution: School of Interactive Computing, Georgia Institute of Technology
+#       year: present
+#       description:
+#         - Working in the Contextual Computing under the advisement of Thad Starner
+#         - title: Designing hardware for Passive Haptic Learning (PHL) project
+#           contents:
+#             - Assemblying and debugging current iteration of PHL gloves
+#             - Designing next iteration of system including a new custom PCB
+#         - title: Programming 
+#     - title: Software Development Intern
+#       institution: Amazon Robotics
+#       year: Summer 2022
+#       description: 
+#         - Description
     
