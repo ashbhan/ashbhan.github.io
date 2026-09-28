@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MicroFloats
-description: Creating a autonomous ocean profiling robot to measure anthrpogenic carbon levels
+description: Creating a autonomous ocean profiling robot to measure anthropogenic carbon levels
 img: assets/img/microfloat.jpg
 importance: 1
 category: work

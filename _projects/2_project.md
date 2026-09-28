@@ -4,7 +4,7 @@ title: Passive Haptic Learning
 description: Creating vibrotactile gloves to accelerate piano learning
 img: assets/img/glovedhands.jpg
 importance: 1
-category: ongoing
+category: work
 ---
 
 
